@@ -4,7 +4,7 @@ const port = 3001;
 
 // Define routes
 app.get('/', (req, res) => {
-  res.send('Hello, From NodeJS');
+  res.send('Hello, From NodeJS Shorty !');
 });
 
 // Start the server
